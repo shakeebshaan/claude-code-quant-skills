@@ -2,6 +2,12 @@
 
 > Claude Code skills, slash commands, and hooks tuned for quant research, trading-strategy analysis, and crypto backtesting workflows.
 
+[![Stars](https://img.shields.io/github/stars/shakeebshaan/claude-code-quant-skills?style=flat-square&color=yellow)](https://github.com/shakeebshaan/claude-code-quant-skills/stargazers)
+[![Forks](https://img.shields.io/github/forks/shakeebshaan/claude-code-quant-skills?style=flat-square&color=blue)](https://github.com/shakeebshaan/claude-code-quant-skills/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/shakeebshaan/claude-code-quant-skills?style=flat-square&color=green)](https://github.com/shakeebshaan/claude-code-quant-skills/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-7C3AED?style=flat-square)](https://docs.anthropic.com/claude-code)
+
 **By [@shakeebshaan](https://github.com/shakeebshaan)** · MIT license · contributions welcome
 
 ---
